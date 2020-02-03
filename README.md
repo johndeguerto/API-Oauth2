@@ -1,6 +1,6 @@
 ## API-Oauth2 application example
-# Below is the quired parameters for this example
 
+# You will need the following fields filled out in app.js
 ```
 // Clear Clouds api based url
 // Replace fqdn with the server fqdn provided by your admin
